@@ -3,7 +3,7 @@ clone_depth: 5
 environment:
   nodejs_version: "6"
   access_token:
-    secure:pExop5E0Tt72U1yFgDNsWi167h58iOIggjnrWCLymDoQcvevEolG9lW5Q+IVMPiT
+    secure:mdP7JqvNegbC70kKS4v6ms3RGtbOI4DshOys57iXOhRl2ADv0TgDZBQE4hXDKbqp
 
 
 install:
